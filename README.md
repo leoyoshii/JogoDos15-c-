@@ -1,10 +1,6 @@
 # Jogo dos 15
 
-** O jogo do 15** , também chamado de "O Quebra-cabeças das Quinze Pastilhas", é um famoso quebra-cabeças de 15 peças. No Brasil, este jogo virou uma verdadeira febre por por volta do ano de 1955. Era difícil uma criança e mesmo um adulto, não possuir a sua caixinha com as peças deslizantes.
-
-Trata-se de um quebra-cabeças de quinze peças, composto por uma placa oca de metal com quinze quadrados que trocam de lugar, todos gravados com números, letras ou figuras. O objetivo é arranjar as peças em ordem, da esquerda para a direita, de cima a baixo.
-
-Na parte traseira do jogo, alguns fabricantes colavam uma série de seqüências numéricas para servirem como modelos (guias).
+O jogo consiste em uma pequena caixa quadrada, com 15 espacos cobertos por quinze pecas, que contem letras, e um espaco vazio para que se possa movimenta-las. As pecas devem ser ordenadas na caixa em ordem alfabetica, deslocando-se as pecas ocupando o espaco vazio, fazendo quantos movimentos quiser, colocando-as na sequencia e deixando o 16 quadradinho vazio.
 
 ## Projeto
 O projeto foi desenvolvido nas Aulas de Algoritmos e Logica de Programação II - Analise e Desenvolvimento de Sistema 2Sem - Unicesumar - 2019 - Desenvolvido em C++.
